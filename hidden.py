@@ -4,4 +4,5 @@ def elastic() :
             "port": 443,
             "scheme": "https",
             "user": "pg4e_14fc2e9477",
+            "account": "pg4e_14fc2e9477",
             "pass": "2210_1559cd4a"}
